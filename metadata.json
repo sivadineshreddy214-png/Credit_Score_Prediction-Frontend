@@ -1,0 +1,6 @@
+{
+  "name": "CreditScore AI Platform & Dev Prompts",
+  "description": "Enterprise credit score classification platform with real-time ML inference, probability breakdown, interactive dashboard, and complete three-stage development prompt specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
